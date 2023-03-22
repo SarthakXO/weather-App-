@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/exampleLondon.json
+/README.md
 
 # testing
 /coverage
